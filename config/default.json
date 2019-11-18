@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dbakshat:Akshat29%40@cluster0-oebzz.mongodb.net/test?retryWrites=true&w=majority",
+    "secret":"nothing"
+}
